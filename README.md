@@ -17,5 +17,5 @@ This transparency means that the best work wins.
 Buyers get the well-designed, well-tested, robust modules that they ask for and you get the extra cash we all want in exchange for working on a problem we think you'll find pretty interesting.
 
 ## Oh, YOU want to put a bounty on a project with Super Cool Service?
-After you sign up, you can create a project on our site or just create a repo and place a .bounty file in the root with the amount you'd like to award.
+After you sign up, you can create a project on our site or just create a repo and add a webhook for https://supercoolservice.com/hook?bounty=100.00
 We recommend you list single-purpose, smaller modules that would take between a few hours and two weeks.
